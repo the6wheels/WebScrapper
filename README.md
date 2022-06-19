@@ -1,2 +1,2 @@
 # WebScrapper
-Simple Web Scrapper in JAVA
+Simple Web Scrapper with a GUI in JAVA
